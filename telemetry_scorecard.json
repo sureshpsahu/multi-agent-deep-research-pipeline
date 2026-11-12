@@ -1,0 +1,13 @@
+{
+  "summary": {
+    "time_to_first_successful_call_ms": 712.4,
+    "total_calls": 2,
+    "p50_latency_ms": 680.1,
+    "p95_latency_ms": 1195.8,
+    "http_429_retries": 0,
+    "total_input_tokens": 1140,
+    "total_output_tokens": 310,
+    "estimated_query_cost_usd": 0.00807,
+    "passage_token_reduction_pct": 54.2
+  }
+}
