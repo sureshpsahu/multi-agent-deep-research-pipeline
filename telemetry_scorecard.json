@@ -1,13 +1,13 @@
 {
   "summary": {
-    "time_to_first_successful_call_ms": 712.4,
-    "total_calls": 2,
-    "p50_latency_ms": 680.1,
-    "p95_latency_ms": 1195.8,
-    "http_429_retries": 0,
-    "total_input_tokens": 1140,
-    "total_output_tokens": 310,
-    "estimated_query_cost_usd": 0.00807,
-    "passage_token_reduction_pct": 54.2
+    "time_to_first_successful_call_ms": 845.2,
+    "total_calls": 5,
+    "p50_latency_ms": 1120.5,
+    "p95_latency_ms": 2340.0,
+    "http_429_retries": 1,
+    "total_input_tokens": 10620,
+    "total_output_tokens": 480,
+    "estimated_query_cost_usd": 0.03906,
+    "passage_token_reduction_pct": 42.4
   }
 }
